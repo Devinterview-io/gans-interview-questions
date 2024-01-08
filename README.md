@@ -737,7 +737,7 @@ Under the hood, CycleGAN uses two main components: **Adversarial Loss** for imag
 
 - This loss term is unique to CycleGAN and helps in maintaining visual fidelity between the input and output images.
 
-![CycleGAN: Cycle Consistency Loss](https://adaptcentre.ie/wp-content/uploads/2016/04/slider-future-adv-comp-2.jpg)
+![CycleGAN: Cycle Consistency Loss](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/gan%2Fcycle-consistency-and-losses.png?alt=media&token=26ef4231-6244-454f-aa24-65ec2650c5c4)
 
 ### Architecture and Training
 
