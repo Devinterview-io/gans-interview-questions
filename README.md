@@ -1,4 +1,4 @@
-# 52 Must-Know GANs Interview Questions
+# 52 Must-Know GANs Interview Questions in 2025
 
 <div>
 <p align="center">
